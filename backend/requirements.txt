@@ -1,0 +1,4 @@
+express
+sqlite3
+jsonwebtoken
+bcryptjs
